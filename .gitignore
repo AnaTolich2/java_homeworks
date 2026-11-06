@@ -1,0 +1,15 @@
+# Do not store hidden files and directories, including .idea project
+.*
+
+# Do not store anything starting with _
+_*
+#out
+out
+# Do not store .class files
+*.class
+
+# Do not store IDEA module files
+*.iml
+
+# Store .git files
+!.git*
